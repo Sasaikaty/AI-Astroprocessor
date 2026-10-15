@@ -1,0 +1,17 @@
+{
+ "score": {
+  "max_arcmin": 14,
+  "mean_arcmin": 1.018182539682623,
+  "missing": 0
+ },
+ "settings": {
+  "coords": "dm/dm",
+  "delta_t": "auto",
+  "ephe_mode": "swiss",
+  "house_lat": "geocentric",
+  "house_system": "P",
+  "lilith": "mean",
+  "node": "true",
+  "topocentric": false
+ }
+}
